@@ -7,7 +7,7 @@ Dependencies:
 > [ESX-Legacy](https://github.com/esx-framework/esx-legacy) or es_extended 1.2
 > [QB-Core](https://github.com/qbcore-framework/qb-core)
 
-Preview: [Video](https://streamable.com/ta68vp) 
+Preview: [Video](https://streamable.com/uetd6g) 
 
 Download: [ESX Version](https://github.com/xFlixzy/apx-dimensions-esx) or [QB Version](https://github.com/xFlixzy/apx-dimensions-qb)
 
